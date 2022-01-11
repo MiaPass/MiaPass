@@ -32,5 +32,5 @@ I cant wait for finish it and release it here! It'll be soon! </p>
 </ul>
 
 <a href="https://www.linkedin.com/in/ninamiapassalia/"> 
-<img src='http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png' height='200' width='200' alt='LinkedIn'/> 
+<img src='http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png' height='50' width='50' alt='LinkedIn'/> 
 </a>
