@@ -37,5 +37,5 @@ I cant wait for finish it and release it here! It'll be soon! </p>
 </a>
 
 <a href="https://www.asoundeffect.com/arcane-sound/?linkId=100000101008548"> 
-<img src='https://www.pngmart.com/files/15/Vector-Email-Symbol-PNG-Background-Image.png' height='200' width='200' alt='LinkedIn'/> 
+<img src='https://www.pngmart.com/files/15/Vector-Email-Symbol-PNG-Background-Image.png' height='100' width='100' alt='LinkedIn'/> 
 </a>
