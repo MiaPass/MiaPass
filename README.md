@@ -20,10 +20,12 @@ I cant wait for finish it and release it here! It'll be soon! </p>
 <ul> -HTML </ul>
 <ul> -CSS </ul>
 
+<h3> Find me in here! </h3>
+
 <a href="https://www.linkedin.com/in/ninamiapassalia/"> 
 <img src='http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png' height='100' width='100' alt='LinkedIn'/> 
 </a>
 
 <a href="https://www.asoundeffect.com/arcane-sound/?linkId=100000101008548"> 
-<img src='http://pngimg.com/uploads/email/email_PNG11.png' height='100' width='100' alt='LinkedIn'/> 
+<img src='http://pngimg.com/uploads/email/email_PNG11.png' height='90' width='90' alt='LinkedIn'/> 
 </a>
