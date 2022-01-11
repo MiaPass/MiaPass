@@ -1,3 +1,4 @@
+
 <h1> Hi! I'm Mia... </h1>
 
 <h3> I'm a programming student, currently studyng for being Full Stack Developer. </h3>
@@ -29,3 +30,5 @@ I cant wait for finish it and release it here! It'll be soon! </p>
 
 -CSS 
 </ul>
+
+<a href="https://www.linkedin.com/in/ninamiapassalia/"> <img src='http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png' className='img' alt='logo'/> </a>
