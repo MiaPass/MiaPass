@@ -1,9 +1,14 @@
-Hi my name is Mia and I'm a programming student, currently studyng for being Full Stack Developer.
+<h1> Hi! I'm Mia... </h1>
 
-I developed on my own a Pokemon App that you can check in my public repositories. Now i'm working in a new group proyect in which we are applying the SCRUM methodology. I cant wait for finish it and release it here! It'll be soon!
+<h3> I'm a programming student, currently studyng for being Full Stack Developer. </h3>
 
-i'm currently capable of using this techs:
+<p> I developed on my own a Pokemon App that you can check in my public repositories. 
+Now i'm working in a new group proyect in which we are applying the SCRUM methodology. 
+I cant wait for finish it and release it here! It'll be soon! </p>
 
+<p> i'm currently capable of using this techs:</p>
+
+<ul> 
 -JavaScript
 
 -React
@@ -22,4 +27,5 @@ i'm currently capable of using this techs:
 
 -HTML
 
--CSS
+-CSS 
+</ul>
