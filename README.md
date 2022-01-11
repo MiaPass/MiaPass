@@ -9,28 +9,16 @@ I cant wait for finish it and release it here! It'll be soon! </p>
 
 <p> i'm currently capable of using this techs:</p>
 
-<ul> 
--JavaScript
-
-  
--React
-
--Redux
-
--PGAdmin
-
--PostgreSQL
-
--Express
-
--Sequelize
-
--Node JS
-
--HTML
-
--CSS 
-</ul>
+<ul> -JavaScript </ul>
+<ul> -React </ul>
+<ul> -Redux </ul>
+<ul> -PGAdmin </ul>
+<ul> -PostgreSQL </ul>
+<ul> -Express </ul>
+<ul> -Sequelize </ul>
+<ul> -Node JS </ul>
+<ul> -HTML </ul>
+<ul> -CSS </ul>
 
 <a href="https://www.linkedin.com/in/ninamiapassalia/"> 
 <img src='http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png' height='100' width='100' alt='LinkedIn'/> 
