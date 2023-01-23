@@ -2,14 +2,21 @@
 
 ## 💫 About Me:
   <ul> 🔭 I’m currently looking for my first job! In the meantime, I'm doing little proyects to learn and improve in new technologies. </ul>
-  <ul> 🌱 My next learnings for 2023 will be: Angular and cybersecurity. </ul>
-  <ul> 🤝 I do my own projects after work every day.  
-   <ul> 2021: Simple website of pokemons to get better on my frontend with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL] </ul>       
+  <ul> 🤝 My own little proyects: 
+    <ul> 2021: Develop website of pokemons as a as an individual project for the 
+      <a href="https://www.soyhenry.com/"> SoyHenry </a>
+      course with info of each one consuming an API + own db for create new pokemons. [Reactjs, Redux, Nodejs, Express, PostgreSQL] </ul>
+  <ul> 2021: A team and I created a small 
+    <a href="https://share-it-tawny.vercel.app/"> social network </a> 
+    as the final project of the  
+    <a href="https://www.soyhenry.com/"> SoyHenry </a>
+    course we were in. [Reactjs, Redux, Nodejs, Express, PostgreSQL, Trello] </ul> 
    <ul> 2022: I did a to-do app to establish certain technologies that he had learned. [CSS, Styled Components, Reactjs, Redux, Nodejs, Express, MongoDB] </ul>    
    <ul> 2022: Started a videogame catalog app to enhance my animation and desing skills. [CSS, MUI, Styled Components, Reactjs, Redux, Nodejs, Express, MongoDB] </ul>     
    <ul> 2023: I want to make a dynamic entertainment page. [Technologies to select.] </ul>       
-   <ul> 2023: Also wish to be able to make a video game, basic and simple at least. [Technologies to select.] </ul> </ul>   
-   <ul> ⚡ Outside of programming, I usually write: sometimes books, sometimes novels, but everything online. I usually have a head full of new stories and images that help me with what I like to do. </ul>
+   <ul> 2023: Also wish to be able to make a video game, basic and simple at least. [Technologies to select.] </ul> </ul>
+  <ul> 🌱 My next learnings for 2023 will be: Angular and cybersecurity. </ul>
+  <ul> ⚡ Outside of programming, I usually write: sometimes books, sometimes novels, but everything online. I usually have a head full of new stories and images that help me with what I like to do. </ul>
 
 
 ## 🌐 Socials:
