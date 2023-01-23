@@ -20,7 +20,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ianina Mia Passalia) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ninamiapassalia) 
 [![Mail](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Microsoft-Outlook&logoColor=white)](mailto:miau.passalia99@hotmail.com) 
 
 
