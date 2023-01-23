@@ -21,9 +21,10 @@
 
 ## 🌐 Socials:
 <ul> 
-  <a href="https://www.linkedin.com/in/ninamiapassalia/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>  </ul>
-<ul> 
-  <a href="mailto:miau.passalia99@hotmail.com"> ![Mail](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Microsoft-Outlook&logoColor=white)</a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ninamiapassalia)
+  </ul>
+<ul>   
+  [![Mail](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Microsoft-Outlook&logoColor=white)](mailto:miau.passalia99@hotmail.com) 
 </ul>
 
 # 💻 Tech Stack:
