@@ -16,7 +16,7 @@
    <ul> 2023: I want to make a dynamic entertainment page. [Technologies to select.] </ul>       
    <ul> 2023: Also wish to be able to make a video game, basic and simple at least. [Technologies to select.] </ul> </ul>
   <ul> 🌱 My next learnings for 2023 will be: Angular and cybersecurity. </ul>
-  <ul> ⚡ Outside of programming, I usually write: sometimes books, sometimes novels, but everything online. I normally have a head full of new stories and images that help me with what I like to do. </ul>
+  <ul> ⚡ Outside of programming, I usually write: sometimes books, sometimes novels, but everything online. I normally have a head full of new ideas, stories and images that help me with what I like to do.  </ul>
 
 
 ## 🌐 Socials:
