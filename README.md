@@ -11,7 +11,7 @@
     as the final project of the  
     <a href="https://www.soyhenry.com/"> SoyHenry </a>
     course we were in. [Reactjs, Redux, Nodejs, Express, PostgreSQL, Trello] </ul> 
-   <ul> 2022: I did a to-do app to establish certain technologies that he had learned. [CSS, Styled Components, Reactjs, Redux, Nodejs, Express, MongoDB] </ul>    
+   <ul> 2022: I did a to-do app to establish certain technologies that I had learned. [CSS, Styled Components, Reactjs, Redux, Nodejs, Express, MongoDB] </ul>    
    <ul> 2022: Started a videogame catalog app to enhance my animation and desing skills. [CSS, MUI, Styled Components, Reactjs, Redux, Nodejs, Express, MongoDB] </ul>     
    <ul> 2023: I want to make a dynamic entertainment page. [Technologies to select.] </ul>       
    <ul> 2023: Also wish to be able to make a video game, basic and simple at least. [Technologies to select.] </ul> </ul>
