@@ -1,7 +1,6 @@
+# Hi! I'm Mia
 
-<h1> Hi! I'm Mia... </h1>
-
-# 💫 About Me:
+## 💫 About Me:
   🔭 I’m currently looking for my first job! In the meantime, I'm doing little proyects to learn and improve in new technologies.<br><br>    🌱 My next learnings for 2023 will be: Angular and cybersecurity.<br><br>    🤝 I do my own projects after work every day.<br>        2021: Simple website of pokemons to get better on my frontend with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]<br>        2022: I did a to-do app to establish certain technologies that he had learned. [CSS, Reactjs, Redux, Nodejs, Express, MongoDB]<br>        2022: Started a videogame catalog app to enhance my animation and desing skills. [CSS, MUI, Reactjs, Redux, Nodejs, Express, MongoDB]<br>        2023: I want to make a dynamic entertainment page. [Technologies to select.]<br>        2023: Also wish to be able to make a video game, basic and simple at least. [Technologies to select.]<br><br>    ⚡ Outside of programming, I usually write: sometimes books, sometimes novels, but everything online. I usually have a head full of new stories and images that help me with what I like to do.
 
 
