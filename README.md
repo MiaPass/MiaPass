@@ -1,8 +1,8 @@
 # Hi! I'm Mia
 
 ## 💫 About Me:
-  <ul> 🔭 I’m currently looking for my first job! In the meantime, I'm doing little proyects to learn and improve in new technologies. </ul>
-  <ul> 🌱 My next learnings for this time will be: NextJS  </ul>
+  <ul> 🔭 I'm doing little proyects to learn and improve in new technologies. </ul>
+  <ul> 🌱 My next learnings for this time will be: VueJs and Nuxt  </ul>
   <ul> ⚡ Outside of programming, I usually write and read: sometimes books, sometimes novels, but everything online.</ul>
 
 
